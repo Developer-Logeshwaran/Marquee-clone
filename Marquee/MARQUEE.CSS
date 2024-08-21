@@ -1,0 +1,23 @@
+body{
+    /* height: 380px; */
+    background-image:url(https://i.makeagif.com/media/12-09-2020/3FmrKC.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-attachment: fixed; */
+   
+   
+}
+img{
+   display: flex;
+   position: relative;
+   top: 450px;
+   height: 100px;
+   width: 300px;
+    
+}
+
+marquee{
+background-size: cover;
+    height: 570px;
+    /* border: 1px solid #000; */
+}
